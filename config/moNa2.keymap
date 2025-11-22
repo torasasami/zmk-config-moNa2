@@ -49,7 +49,7 @@
         default_layer {
             bindings = <
 &mt ESCAPE Q  &kp W         &kp E         &kp R      &kp T                                                               &kp Y          &kp U  &lt 4 I                &kp O             &mt P LANG_ZENKAKUHANKAKU
-&kp A         &kp S         &kp D         &kp F      &kp G                                  &kp MINUS                    &kp H          &kp J  &kp K                  &kp L             &kp SQT
+&kp A         &kp S         &kp D         &kp F      &kp G                                  &kp MINUS                    &kp H          &kp J  &kp K                  &kp L             &tog 2
 &kp Z         &kp X         &kp C         &kp V      &kp B     &mt LEFT_PARENTHESIS LEFT    &mt RIGHT_PARENTHESIS RIGHT  &kp N          &kp M  &mt COMMA EXCLAMATION  &mt DOT QUESTION  &mt SLASH LEFT_SHIFT
 &kp LCTRL     &kp LEFT_WIN  &kp LEFT_ALT  &kp ENTER  &mkp MB1  &mkp MB2                     &kp SPACE                    &kp BACKSPACE                                                  &tog 1
             >;
